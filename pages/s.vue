@@ -45,7 +45,6 @@ function onMenuToggle(e) {
 
     <div>
         <div class="n">
-
             <header class=" relative px-3 py-2 z-20">
                 <nav class="flex justify-between">
                     <div class="w-[130px] md:w-[200px] flex items-center">
@@ -146,7 +145,7 @@ function onMenuToggle(e) {
                                                                         srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=768, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1536 1.5x" />
                                                                     <source media="(min-width:1366px)"
                                                                         srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=2560 1.5x" />
-                                                                    <img src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366"
+                                                                    <img src="//admin.thegioidilac.shop/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366"
                                                                         data-desktop-alt="Trải nghiệm Samsung AI TV đỉnh cao"
                                                                         data-mobile-alt="Trải nghiệm Samsung AI TV đỉnh cao"
                                                                         data-target-width="" />
