@@ -2,6 +2,17 @@
 @import url("~/assets/samsung/style.css");
 @import url("~/assets/samsung/style2.css");
 @import url("~/assets/samsung/style3.css");
+@media only screen and (max-width: 768px) {
+    .slide_ss_custom {
+        bottom: 30% !important;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .slide_ss_custom {
+        bottom: 20% !important;
+    }
+}
 </style>
 <script setup>
 useHead({
@@ -407,7 +418,7 @@ function onMenuToggle(e) {
                                             </div>
                                             <!-- ========================== NEXT and PREV ============================================= -->
                                         </div>
-                                        <div class="home-kv-carousel__indicator-wrap" style="bottom: 20%;">
+                                        <div class="home-kv-carousel__indicator-wrap slide_ss_custom">
                                             <div class="indicator label-indicator" data-indicator-data='{
                                                 "type": "label-indicator",
                                                 "play": true,
@@ -415,16 +426,12 @@ function onMenuToggle(e) {
                                                 "infiniteRolling": true
                                                 }'>
                                                 <div class="indicator-wrap">
-                                                    <button class="indicator__controls indicator__controls--play"
+                                                    <button style="display: none;"
+                                                        class="indicator__controls indicator__controls--play"
                                                         an-tr="hd01_home kv carousel-home-image-action"
                                                         an-ca="indication" an-ac="carousel"
                                                         an-la="carousel:index:kv play">
-                                                        <svg class="play" focusable="false" aria-hidden="true">
-                                                            <use xlink:href="#play-bold" href="#play-bold"></use>
-                                                        </svg>
-                                                        <svg class="pause" focusable="false" aria-hidden="true">
-                                                            <use xlink:href="#pause-bold" href="#pause-bold"></use>
-                                                        </svg>
+                                                        ----
                                                         <span class="hidden">phát</span>
                                                     </button>
                                                     <div class="indicator__list-wrap">
