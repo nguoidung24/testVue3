@@ -145,7 +145,7 @@ function onMenuToggle(e) {
                                                                         srcset="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=768, https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1536 1.5x" />
                                                                     <source media="(min-width:1366px)"
                                                                         srcset="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366, https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=2560 1.5x" />
-                                                                    <img src="https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/2024/05/banner/Mung-ngay-cau-me-min-1920x450-1.png"
+                                                                    <img src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                         data-desktop-alt="Trải nghiệm Samsung AI TV đỉnh cao"
                                                                         data-mobile-alt="Trải nghiệm Samsung AI TV đỉnh cao"
                                                                         data-target-width="" />
