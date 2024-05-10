@@ -101,7 +101,7 @@ useHead({
                                                             </p>
                                                             <div class="home-kv-carousel__cta-wrap">
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.samsung.com/vn/tvs/pre-order/"
+                                                                    href="https://www.google.com"
                                                                     aria-label="Mua ngay"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
@@ -155,7 +155,7 @@ useHead({
                                                                     Tìm hiểu thêm
                                                                 </a>
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.samsung.com/vn/smartphones/galaxy-s24-ultra/buy/"
+                                                                    href="https://www.google.com"
                                                                     aria-label="Mua ngay Galaxy S24 Ultra"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
@@ -219,7 +219,7 @@ useHead({
                                                                     Tìm hiểu thêm
                                                                 </a>
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.samsung.com/vn/home-appliances/bespoke-home/#offer"
+                                                                    href="https://www.google.com"
                                                                     aria-label="Mua ngay"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
@@ -268,7 +268,7 @@ useHead({
                                                             </p>
                                                             <div class="home-kv-carousel__cta-wrap">
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.samsung.com/vn/offer/megasale/"
+                                                                    href="https://www.google.com"
                                                                     aria-label="Chơi ngay"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
