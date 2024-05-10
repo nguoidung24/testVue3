@@ -139,13 +139,13 @@ function onMenuToggle(e) {
                                                             <figure class="first-image">
                                                                 <picture>
                                                                     <source media="(max-width:767px)"
-                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_MO.jpg?imwidth=360, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_MO.jpg?imwidth=720 1.5x" />
+                                                                        srcset="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_MO.jpg?imwidth=360, https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_MO.jpg?imwidth=720 1.5x" />
                                                                     <source
                                                                         media="(min-width:768px) and (max-width:1365px)"
-                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=768, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1536 1.5x" />
+                                                                        srcset="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=768, https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1536 1.5x" />
                                                                     <source media="(min-width:1366px)"
-                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=2560 1.5x" />
-                                                                    <img src="//admin.thegioidilac.shop/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366"
+                                                                        srcset="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366, https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=2560 1.5x" />
+                                                                    <img src="https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/2024/05/banner/Mung-ngay-cau-me-min-1920x450-1.png"
                                                                         data-desktop-alt="Trải nghiệm Samsung AI TV đỉnh cao"
                                                                         data-mobile-alt="Trải nghiệm Samsung AI TV đỉnh cao"
                                                                         data-target-width="" />
@@ -194,8 +194,8 @@ function onMenuToggle(e) {
                                                             <div class="video lazy-load-man" data-image-default="true"
                                                                 data-video-embed="true" data-video-type="mp4"
                                                                 data-video-data='{ 
-                                                                            "desktopSrc": "//images.samsung.com/is/content/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.mp4",
-                                                                            "mobileSrc": "//images.samsung.com/is/content/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.mp4",
+                                                                            "desktopSrc": "https://admin.thegioididong.net/is/content/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.mp4",
+                                                                            "mobileSrc": "https://admin.thegioididong.net/is/content/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.mp4",
                                                                             "title": "S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây.",
                                                                             "caption": "S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây.",
                                                                             "muted": true,
@@ -204,13 +204,13 @@ function onMenuToggle(e) {
                                                                             "controls": false}'>
                                                                 <div class="image">
                                                                     <img class="image__preview lazy-load-man responsive-img"
-                                                                        data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.jpg?$LazyLoad_Home_JPG$"
-                                                                        data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.jpg?$LazyLoad_Home_JPG$"
+                                                                        data-desktop-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.jpg?$LazyLoad_Home_JPG$"
+                                                                        data-mobile-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.jpg?$LazyLoad_Home_JPG$"
                                                                         alt="S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây."
                                                                         role="img" />
                                                                     <img class="image__main responsive-img lazy-load-man"
-                                                                        data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.jpg?$ORIGIN_JPG$"
-                                                                        data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.jpg?$ORIGIN_JPG$"
+                                                                        data-desktop-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.jpg?$ORIGIN_JPG$"
+                                                                        data-mobile-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.jpg?$ORIGIN_JPG$"
                                                                         alt="S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây."
                                                                         role="img" />
                                                                 </div>
@@ -255,20 +255,20 @@ function onMenuToggle(e) {
                                                         <div class="home-kv-carousel__background-media-wrap">
                                                             <div class="image-v2 lazy-load-man">
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?$LazyLoad_Home_PNG$"
-                                                                    data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?$LazyLoad_Home_PNG$"
+                                                                    data-mobile-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?$LazyLoad_Home_PNG$"
+                                                                    data-desktop-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?$LazyLoad_Home_PNG$"
                                                                     data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
-                                                                    data-360w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=360"
-                                                                    data-360w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=720"
-                                                                    data-768w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=768"
-                                                                    data-768w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1536"
-                                                                    data-1366w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1366"
-                                                                    data-1366w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=2560"
+                                                                    data-360w1x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=360"
+                                                                    data-360w2x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=720"
+                                                                    data-768w1x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=768"
+                                                                    data-768w2x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1536"
+                                                                    data-1366w1x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1366"
+                                                                    data-1366w2x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=2560"
                                                                     role="img" />
                                                             </div>
                                                         </div>
@@ -304,20 +304,20 @@ function onMenuToggle(e) {
                                                             <div class="image-v2 lazy-load-man">
 
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_MO_Cross_GBM_1.png?$LazyLoad_Home_PNG$"
-                                                                    data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?$LazyLoad_Home_PNG$"
+                                                                    data-mobile-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_MO_Cross_GBM_1.png?$LazyLoad_Home_PNG$"
+                                                                    data-desktop-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?$LazyLoad_Home_PNG$"
                                                                     data-desktop-alt="Hình ảnh những người mẹ và con"
                                                                     data-mobile-alt="Hình ảnh những người mẹ và con"
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Hình ảnh những người mẹ và con"
                                                                     data-mobile-alt="Hình ảnh những người mẹ và con"
-                                                                    data-360w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_MO_Cross_GBM_1.png?imwidth=360"
-                                                                    data-360w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_MO_Cross_GBM_1.png?imwidth=720"
-                                                                    data-768w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=768"
-                                                                    data-768w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=1536"
-                                                                    data-1366w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=1366"
-                                                                    data-1366w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=2560"
+                                                                    data-360w1x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_MO_Cross_GBM_1.png?imwidth=360"
+                                                                    data-360w2x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_MO_Cross_GBM_1.png?imwidth=720"
+                                                                    data-768w1x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=768"
+                                                                    data-768w2x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=1536"
+                                                                    data-1366w1x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=1366"
+                                                                    data-1366w2x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=2560"
                                                                     role="img" />
                                                             </div>
                                                         </div>
@@ -354,20 +354,20 @@ function onMenuToggle(e) {
                                                             <div class="image-v2 lazy-load-man">
 
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thMO.jpg?$LazyLoad_Home_JPG$"
-                                                                    data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?$LazyLoad_Home_JPG$"
+                                                                    data-mobile-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/5thMO.jpg?$LazyLoad_Home_JPG$"
+                                                                    data-desktop-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/5thPC.jpg?$LazyLoad_Home_JPG$"
                                                                     data-desktop-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
                                                                     data-mobile-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
                                                                     data-mobile-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
-                                                                    data-360w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thMO.jpg?imwidth=360"
-                                                                    data-360w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thMO.jpg?imwidth=720"
-                                                                    data-768w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=768"
-                                                                    data-768w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=1536"
-                                                                    data-1366w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=1366"
-                                                                    data-1366w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=2560"
+                                                                    data-360w1x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/5thMO.jpg?imwidth=360"
+                                                                    data-360w2x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/5thMO.jpg?imwidth=720"
+                                                                    data-768w1x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=768"
+                                                                    data-768w2x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=1536"
+                                                                    data-1366w1x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=1366"
+                                                                    data-1366w2x-src="https://admin.thegioididong.net/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=2560"
                                                                     role="img" />
                                                             </div>
                                                         </div>
