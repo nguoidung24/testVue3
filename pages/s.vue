@@ -194,8 +194,8 @@ function onMenuToggle(e) {
                                                             <div class="video lazy-load-man" data-image-default="true"
                                                                 data-video-embed="true" data-video-type="mp4"
                                                                 data-video-data='{ 
-                                                                            "desktopSrc": "https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngp4",
-                                                                            "mobileSrc": "https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngp4",
+                                                                            "desktopSrc": "https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png",
+                                                                            "mobileSrc": "https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png",
                                                                             "title": "S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây.",
                                                                             "caption": "S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây.",
                                                                             "muted": true,
@@ -204,13 +204,13 @@ function onMenuToggle(e) {
                                                                             "controls": false}'>
                                                                 <div class="image">
                                                                     <img class="image__preview lazy-load-man responsive-img"
-                                                                        data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngPG$"
-                                                                        data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngPG$"
+                                                                        data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                        data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                         alt="S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây."
                                                                         role="img" />
                                                                     <img class="image__main responsive-img lazy-load-man"
-                                                                        data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngPG$"
-                                                                        data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngPG$"
+                                                                        data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                        data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                         alt="S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây."
                                                                         role="img" />
                                                                 </div>
@@ -255,20 +255,20 @@ function onMenuToggle(e) {
                                                         <div class="home-kv-carousel__background-media-wrap">
                                                             <div class="image-v2 lazy-load-man">
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngNG$"
-                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngNG$"
+                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
-                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png360"
-                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png720"
-                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png768"
-                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png536"
-                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png366"
-                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png560"
+                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     role="img" />
                                                             </div>
                                                         </div>
@@ -304,20 +304,20 @@ function onMenuToggle(e) {
                                                             <div class="image-v2 lazy-load-man">
 
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngNG$"
-                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngNG$"
+                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     data-desktop-alt="Hình ảnh những người mẹ và con"
                                                                     data-mobile-alt="Hình ảnh những người mẹ và con"
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Hình ảnh những người mẹ và con"
                                                                     data-mobile-alt="Hình ảnh những người mẹ và con"
-                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png360"
-                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png720"
-                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png768"
-                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png536"
-                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png366"
-                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png560"
+                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     role="img" />
                                                             </div>
                                                         </div>
@@ -354,20 +354,20 @@ function onMenuToggle(e) {
                                                             <div class="image-v2 lazy-load-man">
 
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngPG$"
-                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.pngPG$"
+                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     data-desktop-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
                                                                     data-mobile-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
                                                                     data-mobile-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
-                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png360"
-                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png720"
-                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png768"
-                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png536"
-                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png366"
-                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png560"
+                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     role="img" />
                                                             </div>
                                                         </div>
