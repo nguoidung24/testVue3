@@ -22,51 +22,65 @@ useHead({
         },
     ]
 })
+
+function onMenuToggle(e) {
+    const navlinks = document.querySelector(".navLinks");
+    e.name = e.name === "menu" ? "close" : "menu";
+    navlinks.classList.toggle("left-[0%]");
+}
+
 </script>
 <template>
 
     <div>
-        <div class="h-screen">
+        <div class="n">
 
-            <nav class="flex items-center justify-between flex-wrap bg-teal-500 p-6">
-                <div class="flex items-center flex-shrink-0 text-white mr-6">
-                    <svg class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54"
-                        xmlns="http://www.w3.org/2000/svg">
-                        <path
-                            d="M13.5 22.1c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05zM0 38.3c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05z" />
-                    </svg>
-                    <span class="font-semibold text-xl tracking-tight">Tailwind CSS</span>
-                </div>
-                <div class="block lg:hidden">
-                    <button
-                        class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
-                        <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                            <title>Menu</title>
-                            <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
-                        </svg>
-                    </button>
-                </div>
-                <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
-                    <div class="text-sm lg:flex-grow">
-                        <a href="#responsive-header"
-                            class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
-                            Docs
-                        </a>
-                        <a href="#responsive-header"
-                            class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
-                            Examples
-                        </a>
-                        <a href="#responsive-header"
-                            class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
-                            Blog
-                        </a>
+            <header class=" relative shadow-lg px-3 py-2">
+                <nav class="flex justify-between">
+                    <div class="w-[130px] md:w-[200px] flex items-center">
+                        <img src="https://i.postimg.cc/MZCBXb1K/logo.png" alt="LOGO" srcset="">
                     </div>
-                    <div>
-                        <a href="#"
-                            class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Download</a>
+                    <div class="flex items-center gap-3">
+                        <div
+                            class="navLinks duration-500 absolute md:static md:w-auto w-full md:h-auto h-[85vh] bg-white flex md:items-center gap-[1.5vw] top-[100%] left-[-100%] px-5 md:py-0 py-5 ">
+                            <ul class="flex md:flex-row flex-col md:items-center md:gap-[2vw] gap-8">
+                                <li
+                                    class="relative max-w-fit pr-3 md:pr-0 py-1 after:bg-gradient-to-r from-[#2b68e0] to-[#e710ea]  after:absolute after:h-1 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300">
+                                    <a href="#">Home</a>
+                                </li>
+                                <li
+                                    class="relative max-w-fit pr-3 md:pr-0 py-1 after:bg-gradient-to-r from-[#2b68e0] to-[#e710ea]  after:absolute after:h-1 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300">
+                                    <a href="#">Faculty</a>
+                                </li>
+                                <li
+                                    class="relative max-w-fit pr-3 md:pr-0 py-1 after:bg-gradient-to-r from-[#2b68e0] to-[#e710ea]  after:absolute after:h-1 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300">
+                                    <a href="#">Courses</a>
+                                </li>
+                                <li
+                                    class="relative max-w-fit pr-3 md:pr-0 py-1 after:bg-gradient-to-r from-[#2b68e0] to-[#e710ea]  after:absolute after:h-1 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300">
+                                    <a href="#">About Us</a>
+                                </li>
+                                <li
+                                    class="relative max-w-fit pr-3 md:pr-0 py-1 after:bg-gradient-to-r from-[#2b68e0] to-[#e710ea]  after:absolute after:h-1 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300">
+                                    <a href="#">Contact us</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <button type="button"
+                                class="hover:bg-clip-text hover:text-transparent bg-gradient-to-br from-[#2b68e0] to-[#e710ea] border-solid border-2 border-[#5356e3]  font-bold text-white px-5 py-2 rounded-full ">Login</button>
+                            <!-- <ion-icon name="menu" onclick="onMenuToggle(this)" class="text-[30px] cursor-pointer md:hidden"></ion-icon> -->
+                            <button class="lg:hidden" @click="onMenuToggle(this)">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="currentColor"
+                                    class="bi bi-list" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd"
+                                        d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5" />
+                                </svg>
+                            </button>
+                        </div>
                     </div>
-                </div>
-            </nav>
+                </nav>
+            </header>
         </div>
         <div id="wrap">
             <div id="content" role="main">
@@ -101,8 +115,7 @@ useHead({
                                                             </p>
                                                             <div class="home-kv-carousel__cta-wrap">
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.google.com"
-                                                                    aria-label="Mua ngay"
+                                                                    href="https://www.google.com" aria-label="Mua ngay"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
                                                                     an-la="kv1:unbox and discover 2024:button1:buy now:20240416">
@@ -219,8 +232,7 @@ useHead({
                                                                     Tìm hiểu thêm
                                                                 </a>
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.google.com"
-                                                                    aria-label="Mua ngay"
+                                                                    href="https://www.google.com" aria-label="Mua ngay"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
                                                                     an-la="kv3:bespoke ai:button2:buy now:20240403">
@@ -268,8 +280,7 @@ useHead({
                                                             </p>
                                                             <div class="home-kv-carousel__cta-wrap">
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.google.com"
-                                                                    aria-label="Chơi ngay"
+                                                                    href="https://www.google.com" aria-label="Chơi ngay"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
                                                                     an-la="kv4:mother day 2024:button1:learn more:20240416">
