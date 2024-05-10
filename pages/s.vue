@@ -330,7 +330,7 @@ function onMenuToggle(e) {
 
                                                     <div class="home-kv-carousel__slide-inner">
                                                         <div
-                                                            class="home-kv-carousel__text-wrap text-color--white home-kv-carousel__text-wrap--desktop-middle-left home-kv-carousel__text-wrap--mobile-top-center  ">
+                                                            class="home-kv-carousel__text-wrap text-color--black home-kv-carousel__text-wrap--desktop-middle-left home-kv-carousel__text-wrap--mobile-top-center  ">
                                                             <h1 class="home-kv-carousel__headline"
                                                                 data-desktop-headline-text="Điều hòa treo tường Digital Inverter 12,000 BTU/h"
                                                                 data-mobile-headline-text="&lt;h1 style=&#34;font-size: 6.333333vw;&#34;>Điều hòa treo tường Digital Inverter 12,000 BTU/h&lt;/h1>">
