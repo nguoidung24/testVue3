@@ -106,7 +106,7 @@ function onMenuToggle(e) {
                             <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
                                 <div class="static-content aem-GridColumn aem-GridColumn--default--12"></div>
                                 <div class="ho-g-home-kv-carousel aem-GridColumn aem-GridColumn--default--12">
-                                    <section class="home-kv-carousel  home-kv-carousel--height-medium">
+                                    <section class="home-kv-carousel  home-kv-carousel--height-medium" style="height: fit-content;">
                                         <div class="home-kv-carousel__container">
                                             <button tabindex="-1" type="button" class="swiper-autoplay-stop-btn">
                                                 <span class="hidden">Dừng trình chiếu tự động</span>
