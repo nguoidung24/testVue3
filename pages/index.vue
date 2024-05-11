@@ -12,8 +12,20 @@
     </div>
 </template>
 
-<script setup>
+<script>
 import Component from '~/components/index/Component.vue';
+export default {
+    components: { Component },
+
+    head() {
+        return {
+            title: "Trang Chủ"
+        }
+    },
+}
+</script>
+
+<!-- import Component from '~/components/index/Component.vue';
 
 // const test1 = useTest.test1();
 // const test2 = useTest.test2();
@@ -29,9 +41,4 @@ import Component from '~/components/index/Component.vue';
 
 // const handleClick = () => {
 //     testState.value += 211
-// }
-
-useHead({
-    title: 'Trang Chủ'
-})
-</script>
+// } -->
