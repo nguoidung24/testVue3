@@ -1,40 +1,43 @@
 <script setup>
 const loading = useState("loading", () => true)
-await useHead({
-    script: [
-        {
-            src: "/SamSung/script.js",
-        },
-        {
-            src: "/SamSung/script2.js",
-            defer: true,
-        },
-        {
-            src: "/SamSung/script3.js",
+onMounted(() => {
+    loading.value = false;
+}),
+    await useHead({
+        script: [
+            {
+                src: "/SamSung/script.js",
+            },
+            {
+                src: "/SamSung/script2.js",
+                defer: true,
+            },
+            {
+                src: "/SamSung/script3.js",
 
-        },
-        {
-            src: "/SamSung/script4.js",
-        },
-    ],
-    link: [
-        {
-            href: "/SamSung/style.css",
-            rel: "stylesheet"
-        },
-        {
-            href: "/SamSung/style2.css",
-            rel: "stylesheet"
+            },
+            {
+                src: "/SamSung/script4.js",
+            },
+        ],
+        link: [
+            {
+                href: "/SamSung/style.css",
+                rel: "stylesheet"
+            },
+            {
+                href: "/SamSung/style2.css",
+                rel: "stylesheet"
 
-        },
-        {
-            href: "/SamSung/style3.css",
-            rel: "stylesheet"
+            },
+            {
+                href: "/SamSung/style3.css",
+                rel: "stylesheet"
 
-        }
-    ]
-})
-loading.value = false;
+            }
+        ]
+    })
+
 </script>
 <template>
     <div id="wrap">
