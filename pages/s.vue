@@ -45,7 +45,7 @@ function onMenuToggle(e) {
 
     <div>
         <div class="n">
-        <!-- =================================== MENU ====================================== -->
+            <!-- =================================== MENU ====================================== -->
             <header class=" relative px-3 py-2 z-20">
                 <nav class="flex justify-between">
                     <div class="w-[130px] md:w-[200px] flex items-center">
@@ -94,7 +94,7 @@ function onMenuToggle(e) {
                     </div>
                 </nav>
             </header>
-        <!-- =================================== END MENU ====================================== -->
+            <!-- =================================== END MENU ====================================== -->
 
         </div>
         <div id="wrap">
@@ -197,8 +197,8 @@ function onMenuToggle(e) {
                                                             <div class="video lazy-load-man" data-image-default="true"
                                                                 data-video-embed="true" data-video-type="mp4"
                                                                 data-video-data='{ 
-                                                                            "desktopSrc": "https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png",
-                                                                            "mobileSrc": "https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png",
+                                                                            "desktopSrc": "//images.samsung.com/is/content/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.mp4",
+                                                                            "mobileSrc": "//images.samsung.com/is/content/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.mp4",
                                                                             "title": "S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây.",
                                                                             "caption": "S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây.",
                                                                             "muted": true,
@@ -207,13 +207,13 @@ function onMenuToggle(e) {
                                                                             "controls": false}'>
                                                                 <div class="image">
                                                                     <img class="image__preview lazy-load-man responsive-img"
-                                                                        data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                        data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                        data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.jpg?$LazyLoad_Home_JPG$"
+                                                                        data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.jpg?$LazyLoad_Home_JPG$"
                                                                         alt="S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây."
                                                                         role="img" />
                                                                     <img class="image__main responsive-img lazy-load-man"
-                                                                        data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                        data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                        data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.jpg?$ORIGIN_JPG$"
+                                                                        data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.jpg?$ORIGIN_JPG$"
                                                                         alt="S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây."
                                                                         role="img" />
                                                                 </div>
@@ -258,119 +258,20 @@ function onMenuToggle(e) {
                                                         <div class="home-kv-carousel__background-media-wrap">
                                                             <div class="image-v2 lazy-load-man">
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?$LazyLoad_Home_PNG$"
+                                                                    data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?$LazyLoad_Home_PNG$"
                                                                     data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
-                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    role="img" />
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="home-kv-carousel__slide bg-white"
-                                                    id="home-kv-carousel-slide-4" role="tabpanel"
-                                                    an-tr="hd01_home kv carousel-home-image-swipe4" an-ca="indication"
-                                                    an-ac="carousel" an-la="carousel:swipe:kv4">
-
-                                                    <div class="home-kv-carousel__slide-inner">
-                                                        <div
-                                                            class="home-kv-carousel__text-wrap text-color--black home-kv-carousel__text-wrap--desktop-top-left home-kv-carousel__text-wrap--mobile-top-center  ">
-                                                            <h1 class="home-kv-carousel__headline"
-                                                                data-desktop-headline-text="Gửi gắm&lt;br>deal thương&lt;br>Tặng mẹ&lt;br>phi thường"
-                                                                data-mobile-headline-text="&lt;h2 style=&#34;font-size: 24px;&#34;>Gửi gắm deal thương&lt;br>Tặng mẹ phi thường&lt;/h2>">
-                                                            </h1>
-                                                            <p class="home-kv-carousel__desc"
-                                                                data-desktop-description="Giảm đến 50%, thu cũ đổi mới &lt;br/>hỗ trợ đến 43 triệu đồng. &lt;br/>Từ 06 - 12.05.2024."
-                                                                data-mobile-description="Giảm đến 50%, thu cũ đổi mới hỗ trợ đến 43 triệu đồng. Từ 06 - 12.05.2024.">
-                                                            </p>
-                                                            <div class="home-kv-carousel__cta-wrap">
-                                                                <a class="cta cta--contained cta--black"
-                                                                    href="https://www.google.com" aria-label="Chơi ngay"
-                                                                    an-tr="hd01_home kv carousel-home-cta-kv"
-                                                                    an-ca="home content click" an-ac="kv"
-                                                                    an-la="kv4:mother day 2024:button1:learn more:20240416">
-                                                                    Mua ngay
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="home-kv-carousel__background-media-wrap">
-                                                            <div class="image-v2 lazy-load-man">
-
-                                                                <img class="image-v2__preview"
-                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-desktop-alt="Hình ảnh những người mẹ và con"
-                                                                    data-mobile-alt="Hình ảnh những người mẹ và con"
-                                                                    role="img" />
-                                                                <img class="image-v2__main"
-                                                                    data-desktop-alt="Hình ảnh những người mẹ và con"
-                                                                    data-mobile-alt="Hình ảnh những người mẹ và con"
-                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    role="img" />
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="home-kv-carousel__slide bg-white"
-                                                    id="home-kv-carousel-slide-5" role="tabpanel"
-                                                    an-tr="hd01_home kv carousel-home-image-swipe5" an-ca="indication"
-                                                    an-ac="carousel" an-la="carousel:swipe:kv5">
-
-                                                    <div class="home-kv-carousel__slide-inner">
-                                                        <div
-                                                            class="home-kv-carousel__text-wrap text-color--black home-kv-carousel__text-wrap--desktop-middle-left home-kv-carousel__text-wrap--mobile-top-center  ">
-                                                            <h1 class="home-kv-carousel__headline"
-                                                                data-desktop-headline-text="Điều hòa treo tường Digital Inverter 12,000 BTU/h"
-                                                                data-mobile-headline-text="&lt;h1 style=&#34;font-size: 6.333333vw;&#34;>Điều hòa treo tường Digital Inverter 12,000 BTU/h&lt;/h1>">
-                                                            </h1>
-                                                            <p class="home-kv-carousel__desc"
-                                                                data-desktop-description="Nhập &lt;b>COOLDAY&lt;/b> nhận thêm ưu đãi. Duy nhất đến &lt;b>12.5&lt;/b>"
-                                                                data-mobile-description="Nhập &lt;b>COOLDAY&lt;/b> nhận thêm ưu đãi. Duy nhất đến &lt;b>12.5&lt;/b>">
-                                                            </p>
-                                                            <div class="home-kv-carousel__cta-wrap">
-                                                                <a class="cta cta--contained cta--white"
-                                                                    href="https://www.samsung.com/vn/air-conditioners/wall-mount/ar9500t-ar12dsfzawkniq-digital-inverter-technology-f-ar13dyhza24/"
-                                                                    aria-label="Mua ngay"
-                                                                    an-tr="hd01_home kv carousel-home-cta-kv"
-                                                                    an-ca="home content click" an-ac="kv"
-                                                                    an-la="kv5:new rac ar12dsfzawkniq:button1:buy niw:20240507">
-                                                                    Mua ngay
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="home-kv-carousel__background-media-wrap">
-                                                            <div class="image-v2 lazy-load-man">
-
-                                                                <img class="image-v2__preview"
-                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-desktop-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
-                                                                    data-mobile-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
-                                                                    role="img" />
-                                                                <img class="image-v2__main"
-                                                                    data-desktop-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
-                                                                    data-mobile-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
-                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
-                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-360w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=360"
+                                                                    data-360w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=720"
+                                                                    data-768w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=768"
+                                                                    data-768w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1536"
+                                                                    data-1366w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1366"
+                                                                    data-1366w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=2560"
                                                                     role="img" />
                                                             </div>
                                                         </div>
@@ -506,49 +407,6 @@ function onMenuToggle(e) {
                                                                 </span>
                                                             </button>
 
-                                                            <button class="indicator__item" role="tab"
-                                                                data-indicator-delay="5000"
-                                                                aria-controls="home-kv-carousel-slide-5"
-                                                                an-tr="hd01_home kv carousel-home-text-carousel"
-                                                                an-ca="indication" an-ac="carousel"
-                                                                an-la="carousel:index:kv4">
-                                                                <span class="indicator__dot-wrap">
-                                                                    <span class="indicator__dot">
-                                                                        <span class="indicator__dot-inner"></span>
-                                                                    </span>
-                                                                    <span class="hidden">Mother&#39;s day</span>
-                                                                </span>
-                                                                <span class="indicator__label-wrap">
-                                                                    <span class="indicator__label-line">
-                                                                        <span
-                                                                            class="indicator__label-line-filled"></span>
-                                                                    </span>
-                                                                    <span class="indicator__label">Mother&#39;s
-                                                                        day</span>
-                                                                </span>
-                                                            </button>
-
-                                                            <button class="indicator__item" role="tab"
-                                                                data-indicator-delay="5000"
-                                                                aria-controls="home-kv-carousel-slide-5"
-                                                                an-tr="hd01_home kv carousel-home-text-carousel"
-                                                                an-ca="indication" an-ac="carousel"
-                                                                an-la="carousel:index:kv5">
-                                                                <span class="indicator__dot-wrap">
-                                                                    <span class="indicator__dot">
-                                                                        <span class="indicator__dot-inner"></span>
-                                                                    </span>
-                                                                    <span class="hidden">Điều hòa mới</span>
-                                                                </span>
-                                                                <span class="indicator__label-wrap">
-                                                                    <span class="indicator__label-line">
-                                                                        <span
-                                                                            class="indicator__label-line-filled"></span>
-                                                                    </span>
-                                                                    <span class="indicator__label">Điều hòa
-                                                                        mới</span>
-                                                                </span>
-                                                            </button>
 
                                                         </div>
                                                     </div>
