@@ -16,6 +16,22 @@ useHead({
         {
             src: "/SamSung/script4.js",
         },
+    ],
+    link: [
+        {
+            href:"/SamSung/style.css",
+            rel:"stylesheet"
+        },
+        {
+            href:"/SamSung/style2.css",
+            rel:"stylesheet"
+
+        },
+        {
+            href:"/SamSung/style3.css",
+            rel:"stylesheet"
+
+        }
     ]
 })
 </script>

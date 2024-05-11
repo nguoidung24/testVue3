@@ -1,19 +1,3 @@
-<style>
-@import url("~/assets/samsung/style.css");
-@import url("~/assets/samsung/style2.css");
-@import url("~/assets/samsung/style3.css");
-/* @media only screen and (max-width: 768px) {
-    .slide_ss_custom {
-        bottom: 30% !important;
-    }
-}
-
-@media only screen and (min-width: 768px) {
-    .slide_ss_custom {
-        bottom: 20% !important;
-    }
-} */
-</style>
 <script setup>
 
 
@@ -42,7 +26,7 @@ function onMenuToggle(e) {
                             <ul class="flex md:flex-row flex-col md:items-center md:gap-[2vw] gap-8">
                                 <li
                                     class="relative max-w-fit pr-3 md:pr-0 py-1 after:bg-gradient-to-r from-[#2b68e0] to-[#e710ea]  after:absolute after:h-1 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300">
-                                    <a href="#">Home</a>
+                                    <nuxt-link to="/">Home</nuxt-link>
                                 </li>
                                 <li
                                     class="relative max-w-fit pr-3 md:pr-0 py-1 after:bg-gradient-to-r from-[#2b68e0] to-[#e710ea]  after:absolute after:h-1 after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300">
