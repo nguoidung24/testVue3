@@ -45,7 +45,7 @@ function onMenuToggle(e) {
 
     <div>
         <div class="n">
-            <!-- =================================== MENU ====================================== -->
+        <!-- =================================== MENU ====================================== -->
             <header class=" relative px-3 py-2 z-20">
                 <nav class="flex justify-between">
                     <div class="w-[130px] md:w-[200px] flex items-center">
@@ -94,7 +94,7 @@ function onMenuToggle(e) {
                     </div>
                 </nav>
             </header>
-            <!-- =================================== END MENU ====================================== -->
+        <!-- =================================== END MENU ====================================== -->
 
         </div>
         <div id="wrap">
@@ -130,8 +130,7 @@ function onMenuToggle(e) {
                                                             </p>
                                                             <div class="home-kv-carousel__cta-wrap">
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.samsung.com/vn/tvs/pre-order/"
-                                                                    aria-label="Mua ngay"
+                                                                    href="https://www.google.com" aria-label="Mua ngay"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
                                                                     an-la="kv1:unbox and discover 2024:button1:buy now:20240416">
@@ -143,12 +142,12 @@ function onMenuToggle(e) {
                                                             <figure class="first-image">
                                                                 <picture>
                                                                     <source media="(max-width:767px)"
-                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_MO.jpg?imwidth=360, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_MO.jpg?imwidth=720 1.5x" />
+                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=360" />
                                                                     <source
                                                                         media="(min-width:768px) and (max-width:1365px)"
-                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=768, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1536 1.5x" />
+                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=768" />
                                                                     <source media="(min-width:1366px)"
-                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=2560 1.5x" />
+                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366" />
                                                                     <img src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366"
                                                                         data-desktop-alt="Trải nghiệm Samsung AI TV đỉnh cao"
                                                                         data-mobile-alt="Trải nghiệm Samsung AI TV đỉnh cao"
@@ -184,7 +183,7 @@ function onMenuToggle(e) {
                                                                     Tìm hiểu thêm
                                                                 </a>
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.samsung.com/vn/smartphones/galaxy-s24-ultra/buy/"
+                                                                    href="https://www.google.com"
                                                                     aria-label="Mua ngay Galaxy S24 Ultra"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
@@ -198,8 +197,8 @@ function onMenuToggle(e) {
                                                             <div class="video lazy-load-man" data-image-default="true"
                                                                 data-video-embed="true" data-video-type="mp4"
                                                                 data-video-data='{ 
-                                                                            "desktopSrc": "//images.samsung.com/is/content/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.mp4",
-                                                                            "mobileSrc": "//images.samsung.com/is/content/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.mp4",
+                                                                            "desktopSrc": "https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png",
+                                                                            "mobileSrc": "https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png",
                                                                             "title": "S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây.",
                                                                             "caption": "S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây.",
                                                                             "muted": true,
@@ -208,13 +207,13 @@ function onMenuToggle(e) {
                                                                             "controls": false}'>
                                                                 <div class="image">
                                                                     <img class="image__preview lazy-load-man responsive-img"
-                                                                        data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.jpg?$LazyLoad_Home_JPG$"
-                                                                        data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.jpg?$LazyLoad_Home_JPG$"
+                                                                        data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                        data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                         alt="S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây."
                                                                         role="img" />
                                                                     <img class="image__main responsive-img lazy-load-man"
-                                                                        data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_1440x640_pc.jpg?$ORIGIN_JPG$"
-                                                                        data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/HOME_S24_Series_Main-KV_720x1080_mo.jpg?$ORIGIN_JPG$"
+                                                                        data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                        data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                         alt="S Pen chạm vào màn hình Galaxy S24 Ultra. Galaxy S24 and S24 plus. Galaxy S24 Ultra cùng với S Pen. Galaxy AI đang ở đây."
                                                                         role="img" />
                                                                 </div>
@@ -222,7 +221,7 @@ function onMenuToggle(e) {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <!-- =========================================  VIDEO  ========================================================== -->
+                                                <!-- =========================================  END VIDEO  ========================================================== -->
                                                 <div class="home-kv-carousel__slide bg-white"
                                                     id="home-kv-carousel-slide-3" role="tabpanel"
                                                     an-tr="hd01_home kv carousel-home-image-swipe3" an-ca="indication"
@@ -248,8 +247,7 @@ function onMenuToggle(e) {
                                                                     Tìm hiểu thêm
                                                                 </a>
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.samsung.com/vn/home-appliances/bespoke-home/#offer"
-                                                                    aria-label="Mua ngay"
+                                                                    href="https://www.google.com" aria-label="Mua ngay"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
                                                                     an-la="kv3:bespoke ai:button2:buy now:20240403">
@@ -260,20 +258,20 @@ function onMenuToggle(e) {
                                                         <div class="home-kv-carousel__background-media-wrap">
                                                             <div class="image-v2 lazy-load-man">
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?$LazyLoad_Home_PNG$"
-                                                                    data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?$LazyLoad_Home_PNG$"
+                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
                                                                     data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
-                                                                    data-360w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=360"
-                                                                    data-360w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=720"
-                                                                    data-768w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=768"
-                                                                    data-768w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1536"
-                                                                    data-1366w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1366"
-                                                                    data-1366w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=2560"
+                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     role="img" />
                                                             </div>
                                                         </div>
@@ -297,8 +295,7 @@ function onMenuToggle(e) {
                                                             </p>
                                                             <div class="home-kv-carousel__cta-wrap">
                                                                 <a class="cta cta--contained cta--black"
-                                                                    href="https://www.samsung.com/vn/offer/megasale/"
-                                                                    aria-label="Chơi ngay"
+                                                                    href="https://www.google.com" aria-label="Chơi ngay"
                                                                     an-tr="hd01_home kv carousel-home-cta-kv"
                                                                     an-ca="home content click" an-ac="kv"
                                                                     an-la="kv4:mother day 2024:button1:learn more:20240416">
@@ -310,20 +307,20 @@ function onMenuToggle(e) {
                                                             <div class="image-v2 lazy-load-man">
 
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_MO_Cross_GBM_1.png?$LazyLoad_Home_PNG$"
-                                                                    data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?$LazyLoad_Home_PNG$"
+                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     data-desktop-alt="Hình ảnh những người mẹ và con"
                                                                     data-mobile-alt="Hình ảnh những người mẹ và con"
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Hình ảnh những người mẹ và con"
                                                                     data-mobile-alt="Hình ảnh những người mẹ và con"
-                                                                    data-360w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_MO_Cross_GBM_1.png?imwidth=360"
-                                                                    data-360w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_MO_Cross_GBM_1.png?imwidth=720"
-                                                                    data-768w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=768"
-                                                                    data-768w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=1536"
-                                                                    data-1366w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=1366"
-                                                                    data-1366w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Mothers_Day_KV_PC_Cross_GBM_1.png?imwidth=2560"
+                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     role="img" />
                                                             </div>
                                                         </div>
@@ -336,7 +333,7 @@ function onMenuToggle(e) {
 
                                                     <div class="home-kv-carousel__slide-inner">
                                                         <div
-                                                            class="home-kv-carousel__text-wrap text-color--white home-kv-carousel__text-wrap--desktop-middle-left home-kv-carousel__text-wrap--mobile-top-center  ">
+                                                            class="home-kv-carousel__text-wrap text-color--black home-kv-carousel__text-wrap--desktop-middle-left home-kv-carousel__text-wrap--mobile-top-center  ">
                                                             <h1 class="home-kv-carousel__headline"
                                                                 data-desktop-headline-text="Điều hòa treo tường Digital Inverter 12,000 BTU/h"
                                                                 data-mobile-headline-text="&lt;h1 style=&#34;font-size: 6.333333vw;&#34;>Điều hòa treo tường Digital Inverter 12,000 BTU/h&lt;/h1>">
@@ -360,77 +357,20 @@ function onMenuToggle(e) {
                                                             <div class="image-v2 lazy-load-man">
 
                                                                 <img class="image-v2__preview"
-                                                                    data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thMO.jpg?$LazyLoad_Home_JPG$"
-                                                                    data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?$LazyLoad_Home_JPG$"
+                                                                    data-mobile-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-desktop-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     data-desktop-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
                                                                     data-mobile-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
                                                                     role="img" />
                                                                 <img class="image-v2__main"
                                                                     data-desktop-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
                                                                     data-mobile-alt="Giảm trực tiếp đến 14%. Nhập mã COOLDAY giảm thêm 15%"
-                                                                    data-360w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thMO.jpg?imwidth=360"
-                                                                    data-360w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thMO.jpg?imwidth=720"
-                                                                    data-768w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=768"
-                                                                    data-768w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=1536"
-                                                                    data-1366w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=1366"
-                                                                    data-1366w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/5thPC.jpg?imwidth=2560"
-                                                                    role="img" />
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="home-kv-carousel__slide bg-white"
-                                                    id="home-kv-carousel-slide-6" role="tabpanel"
-                                                    an-tr="hd01_home kv carousel-home-image-swipe6" an-ca="indication"
-                                                    an-ac="carousel" an-la="carousel:swipe:kv6">
-                                                    <div class="home-kv-carousel__slide-inner">
-                                                        <div
-                                                            class="home-kv-carousel__text-wrap text-color--black home-kv-carousel__text-wrap--desktop-middle-left home-kv-carousel__text-wrap--mobile-top-center  ">
-                                                            <h2 class="home-kv-carousel__headline"
-                                                                data-desktop-headline-text="&lt;h2 style=&#34;font-size: 30px;&#34;>Chào đón kỷ nguyên&lt;br>BESPOKE AI&lt;/h2>"
-                                                                data-mobile-headline-text="Chào đón kỷ nguyên BESPOKE AI">
-                                                            </h2>
-                                                            <p class="home-kv-carousel__desc"
-                                                                data-desktop-description="Do less, live more. Giải pháp AI và &lt;br/>Smart Home với deal siêu tiết &lt;br/>kiệm lên đến 15%."
-                                                                data-mobile-description="Do less, live more. Giải pháp AI và Smart Home với deal siêu tiết kiệm lên đến 15%.">
-                                                            </p>
-                                                            <div class="home-kv-carousel__cta-wrap">
-                                                                <a class="cta cta--underline cta--black"
-                                                                    href="https://www.samsung.com/vn/home-appliances/bespoke-home/"
-                                                                    aria-label="Tìm hiểu thêm"
-                                                                    an-tr="hd01_home kv carousel-home-cta-kv"
-                                                                    an-ca="home content click" an-ac="kv"
-                                                                    an-la="kv3:bespoke ai:button1:learn more:20240327">
-                                                                    Tìm hiểu thêm
-                                                                </a>
-                                                                <a class="cta cta--contained cta--black"
-                                                                    href="https://www.samsung.com/vn/home-appliances/bespoke-home/#offer"
-                                                                    aria-label="Mua ngay"
-                                                                    an-tr="hd01_home kv carousel-home-cta-kv"
-                                                                    an-ca="home content click" an-ac="kv"
-                                                                    an-la="kv3:bespoke ai:button2:buy now:20240403">
-                                                                    Mua ngay
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="home-kv-carousel__background-media-wrap">
-                                                            <div class="image-v2 lazy-load-man">
-                                                                <img class="image-v2__preview"
-                                                                    data-mobile-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?$LazyLoad_Home_PNG$"
-                                                                    data-desktop-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?$LazyLoad_Home_PNG$"
-                                                                    data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
-                                                                    data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
-                                                                    role="img" />
-                                                                <img class="image-v2__main"
-                                                                    data-desktop-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
-                                                                    data-mobile-alt="Một người phụ nữ ngồi trên Máy rửa bát Bespoke và đang xem điện thoại. Tủ lạnh 4 cửa Bespoke, Lò nướng  Bespoke, Combo giặt sấy Bespoke và Máy hút bụi Jet Bespoke được đặt gần đó và tất cả đều được kết nối với điện thoại."
-                                                                    data-360w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=360"
-                                                                    data-360w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-mo.png?imwidth=720"
-                                                                    data-768w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=768"
-                                                                    data-768w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1536"
-                                                                    data-1366w1x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=1366"
-                                                                    data-1366w2x-src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/REPLACE-2024-bespoke-ai-home-kv-pc.png?imwidth=2560"
+                                                                    data-360w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-360w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-768w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w1x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
+                                                                    data-1366w2x-src="https://thegioidilac.shop/_nuxt/img/bg_app.da6a8cd.png"
                                                                     role="img" />
                                                             </div>
                                                         </div>
@@ -488,11 +428,13 @@ function onMenuToggle(e) {
                                                 "infiniteRolling": true
                                                 }'>
                                                 <div class="indicator-wrap">
-                                                    <button style="display: none" class="indicator__controls indicator__controls--play"
+                                                    <button style="display: none;"
+                                                        class="indicator__controls indicator__controls--play"
                                                         an-tr="hd01_home kv carousel-home-image-action"
                                                         an-ca="indication" an-ac="carousel"
                                                         an-la="carousel:index:kv play">
-                                                        
+                                                        ----
+                                                        <span class="hidden">phát</span>
                                                     </button>
                                                     <div class="indicator__list-wrap">
                                                         <div class="indicator__list" role="tablist">
@@ -515,7 +457,8 @@ function onMenuToggle(e) {
                                                                         <span
                                                                             class="indicator__label-line-filled"></span>
                                                                     </span>
-                                                                    <span class="indicator__label">Unbox &amp; Discover
+                                                                    <span class="indicator__label">Unbox &amp;
+                                                                        Discover
                                                                         2024</span>
                                                                 </span>
                                                             </button>
@@ -602,37 +545,16 @@ function onMenuToggle(e) {
                                                                         <span
                                                                             class="indicator__label-line-filled"></span>
                                                                     </span>
-                                                                    <span class="indicator__label">Điều hòa mới</span>
+                                                                    <span class="indicator__label">Điều hòa
+                                                                        mới</span>
                                                                 </span>
                                                             </button>
 
-
-                                                            <button class="indicator__item" role="tab"
-                                                                data-indicator-delay="5000"
-                                                                aria-controls="home-kv-carousel-slide-6"
-                                                                an-tr="hd01_home kv carousel-home-text-carousel"
-                                                                an-ca="indication" an-ac="carousel"
-                                                                an-la="carousel:index:kv3">
-                                                                <span class="indicator__dot-wrap">
-                                                                    <span class="indicator__dot">
-                                                                        <span class="indicator__dot-inner"></span>
-                                                                    </span>
-                                                                    <span class="hidden">BESPOKE AI</span>
-                                                                </span>
-                                                                <span class="indicator__label-wrap">
-                                                                    <span class="indicator__label-line">
-                                                                        <span
-                                                                            class="indicator__label-line-filled"></span>
-                                                                    </span>
-                                                                    <span class="indicator__label">BESPOKE AI</span>
-                                                                </span>
-                                                            </button>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-
                                     </section>
                                 </div>
                             </div>
