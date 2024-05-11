@@ -1,6 +1,6 @@
 <script setup>
-
-useHead({
+const loading = useState("loading", () => true)
+await useHead({
     script: [
         {
             src: "/SamSung/script.js",
@@ -19,25 +19,29 @@ useHead({
     ],
     link: [
         {
-            href:"/SamSung/style.css",
-            rel:"stylesheet"
+            href: "/SamSung/style.css",
+            rel: "stylesheet"
         },
         {
-            href:"/SamSung/style2.css",
-            rel:"stylesheet"
+            href: "/SamSung/style2.css",
+            rel: "stylesheet"
 
         },
         {
-            href:"/SamSung/style3.css",
-            rel:"stylesheet"
+            href: "/SamSung/style3.css",
+            rel: "stylesheet"
 
         }
     ]
 })
+loading.value = false;
 </script>
 <template>
     <div id="wrap">
-        <div id="content" role="main">
+        <div id="content" role="main" v-if="loading">
+            Loading...
+        </div>
+        <div id="content" role="main" v-if="!loading">
             <div class="root responsivegrid">
                 <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
                     <div class="pd-g-product-promotion-bar aem-GridColumn aem-GridColumn--default--12"></div>
