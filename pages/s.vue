@@ -2,7 +2,7 @@
 @import url("~/assets/samsung/style.css");
 @import url("~/assets/samsung/style2.css");
 @import url("~/assets/samsung/style3.css");
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
     .slide_ss_custom {
         bottom: 30% !important;
     }
@@ -12,7 +12,7 @@
     .slide_ss_custom {
         bottom: 20% !important;
     }
-}
+} */
 </style>
 <script setup>
 useHead({
@@ -421,8 +421,8 @@ function onMenuToggle(e) {
                 </div>
             </div>
         </div>
-        <div class="h-screen bg-black text-white">
-            ------------------------------------- Phan Tiep The0 ----------------------------------------------------------------
+        <div class="h-screen bg-black text-white text-center">
+            -------------- Phan Tiep The0 ----------------
         </div>
     </div>
 </template>
