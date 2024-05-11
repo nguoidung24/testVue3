@@ -1,50 +1,43 @@
 <script setup>
-const loading = useState("loading", () => true)
-onMounted(() => {
-    loading.value = false;
-}),
-    await useHead({
-        script: [
-            {
-                src: "/SamSung/script.js",
-            },
-            {
-                src: "/SamSung/script2.js",
-                defer: true,
-            },
-            {
-                src: "/SamSung/script3.js",
 
-            },
-            {
-                src: "/SamSung/script4.js",
-            },
-        ],
-        link: [
-            {
-                href: "/SamSung/style.css",
-                rel: "stylesheet"
-            },
-            {
-                href: "/SamSung/style2.css",
-                rel: "stylesheet"
+useHead({
+    script: [
+        {
+            src: "/SamSung/script.js",
+        },
+        {
+            src: "/SamSung/script2.js",
+            defer: true,
+        },
+        {
+            src: "/SamSung/script3.js",
 
-            },
-            {
-                href: "/SamSung/style3.css",
-                rel: "stylesheet"
+        },
+        {
+            src: "/SamSung/script4.js",
+        },
+    ],
+    link: [
+        {
+            href:"/SamSung/style.css",
+            rel:"stylesheet"
+        },
+        {
+            href:"/SamSung/style2.css",
+            rel:"stylesheet"
 
-            }
-        ]
-    })
+        },
+        {
+            href:"/SamSung/style3.css",
+            rel:"stylesheet"
 
+        }
+    ]
+})
 </script>
 <template>
     <div id="wrap">
-        <div id="content" role="main" v-if="loading">
-            Loading...
-        </div>
-        <div id="content" role="main" v-if="!loading">
+        <div id="content" role="main">
             <div class="root responsivegrid">
                 <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
                     <div class="pd-g-product-promotion-bar aem-GridColumn aem-GridColumn--default--12"></div>
