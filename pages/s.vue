@@ -142,12 +142,12 @@ function onMenuToggle(e) {
                                                             <figure class="first-image">
                                                                 <picture>
                                                                     <source media="(max-width:767px)"
-                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=360" />
+                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_MO.jpg?imwidth=360, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_MO.jpg?imwidth=720 1.5x" />
                                                                     <source
                                                                         media="(min-width:768px) and (max-width:1365px)"
-                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=768" />
+                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=768, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1536 1.5x" />
                                                                     <source media="(min-width:1366px)"
-                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366" />
+                                                                        srcset="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366, //images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=2560 1.5x" />
                                                                     <img src="//images.samsung.com/is/image/samsung/assets/vn/home/2024/Pre-order_KV_Dotcom_H_PC.jpg?imwidth=1366"
                                                                         data-desktop-alt="Trải nghiệm Samsung AI TV đỉnh cao"
                                                                         data-mobile-alt="Trải nghiệm Samsung AI TV đỉnh cao"
